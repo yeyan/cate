@@ -6,7 +6,7 @@ A Scala/Java program which categorize files under a specified directory based on
 
 usage
 ====
-
+```
 cate 1.0
 Usage: cate [options] [<file>]
 
@@ -24,3 +24,4 @@ Usage: cate [options] [<file>]
         optional target directory
   --help
         prints this usage text
+```
